@@ -1,17 +1,35 @@
 # Der Anfang
 
-## Tugenden
+## Virtues
 
-* Dankbarkeit
-* Geduld
-* Bewusstsein
+* Thankfulness
+* Patience
+* Mindfulness
+* Acceptance
 
-## Ernährung
+## Techniques
 
-* Wenig Fleisch essen
-* Regionale Nahrungsmittel vorziehen
+* Breathing Excersises
+* Cycling
+* Regular & Predictable sleep cycles
 
 
+
+## Eating
+
+* As little meat as possible
+* Prefer regional food \(ex. Linseed instead of Chia seeds\)
+
+## Music
+
+My Rack: [https://www.modulargrid.net/e/racks/view/686881](https://www.modulargrid.net/e/racks/view/686881)
+
+* Eurorack Modules
+* Atmospheric Drones
+* Physical Modeling \(MI Rings\)
+* Glitchy Drums \(Folktech Conduit\)
+* Euclidian Rhythms
+* No Screens! \(except o\_c\)
 
 ## Inspiration
 
